@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{2D4FABE3-BD5E-41F5-A3A2-CCACC4A50D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinetGUI", "ClinetGUI\ClinetGUI.csproj", "{122A23C6-A382-4F63-999F-45A7A20EA6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4FABE3-BD5E-41F5-A3A2-CCACC4A50D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4FABE3-BD5E-41F5-A3A2-CCACC4A50D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4FABE3-BD5E-41F5-A3A2-CCACC4A50D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4FABE3-BD5E-41F5-A3A2-CCACC4A50D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122A23C6-A382-4F63-999F-45A7A20EA6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122A23C6-A382-4F63-999F-45A7A20EA6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122A23C6-A382-4F63-999F-45A7A20EA6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122A23C6-A382-4F63-999F-45A7A20EA6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70529A07-F267-4CD7-80B2-B836C6A374F9}
+	EndGlobalSection
+EndGlobal
